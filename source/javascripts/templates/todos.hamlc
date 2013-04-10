@@ -1,0 +1,2 @@
+- for todo in @todos
+  != JST['todo'](todo: todo)

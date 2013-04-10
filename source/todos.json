@@ -1,0 +1,6 @@
+{"todos": [
+    {"name": "fold clothes",
+     "completed": false},
+    {"name": "take out trash",
+    "completed": true}
+]}
